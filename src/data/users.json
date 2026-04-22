@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nome": "João Silva", "login": "joao.silva", "validado": false },
+  { "id": 2, "nome": "Maria Souza", "login": "maria.souza", "validado": false },
+  { "id": 3, "nome": "Carlos Lima", "login": "carlos.lima", "validado": false },
+  { "id": 4, "nome": "Ana Oliveira", "login": "ana.oliveira", "validado": false },
+  { "id": 5, "nome": "Lucas Pereira", "login": "lucas.pereira", "validado": false }
+]
