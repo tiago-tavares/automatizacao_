@@ -1,2 +1,2 @@
-# automatiza-o_github
-# automatizacao_github
+# automatiza-o
+# automatizacao
